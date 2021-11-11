@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    height: 95vh;
+    width:  95;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44,139,44);
+}
+
+.titulo{
+    color: rgb(205, 231, 190);
+}
+h3{
+    color:rgb(33, 45, 64);
+}
+
+h4{
+    color: rgb(252, 163, 17);
+}
+
